@@ -1,0 +1,32 @@
+# --- .NET / C# Specifics ---
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+appsettings.Development.json
+
+# --- Node / React Specifics ---
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- OS / Editor Specifics ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
